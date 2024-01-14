@@ -1,4 +1,4 @@
-# ElementaryHighSchoolCreatorRel
+# ElementaryHighSchoolSpreadSheetCreatorRelease
 
 SpreadSheetCreator.7z SHA256: e933243d1df18be05d68b07f5fdba0f0ec5c2f70717074646a888f435ea59e3d  
 
